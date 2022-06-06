@@ -1,0 +1,14 @@
+site_name: Algothon 2022
+
+repo_url: https://github.com/oniewankenobi/algothon21
+repo_name: algothon21
+
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  logo: img/fintech.png
+  favicon: img/fintech.png
+  palette:
+    primary: black
+
