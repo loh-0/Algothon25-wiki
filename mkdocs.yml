@@ -5,6 +5,7 @@ repo_name: algothon21
 
 theme:
   features:
+    - navigation.top
     - toc.integrate
     - navigation.tabs
     - navigation.instant

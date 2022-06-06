@@ -1,7 +1,6 @@
-# Home
+![Cover photo](/img/cp.png)
 
-## Welcome
-**to SIG x UNSW Financial Technology Society's 2021 Algothon.**
+# <center>Welcome to SIG x UNSW Financial Technology Society's 2021 Algothon.</center>
 
 ---
 
