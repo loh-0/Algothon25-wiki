@@ -4,6 +4,10 @@ repo_url: https://github.com/oniewankenobi/algothon21
 repo_name: algothon21
 
 theme:
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.instant
   icon:
     repo: fontawesome/brands/github
   name: material

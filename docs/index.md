@@ -1,6 +1,9 @@
 # Home
 
-## Welcome to SIG x UNSW Financial Technology Society's 2021 Algothon.
+## Welcome
+**to SIG x UNSW Financial Technology Society's 2021 Algothon.**
+
+---
 
 [//]: # (For full documentation visit [mkdocs.org]&#40;https://www.mkdocs.org&#41;.)
 Following the success of our 2020 Algothon, the very first student-led algorithmic trading hackathon in Australia, we're keen to be back bigger and better than last year!
