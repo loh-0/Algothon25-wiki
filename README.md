@@ -1,4 +1,4 @@
-# Algothon 2022 Website
+# Algothon 2022 Documentation
 
 ## Setup
 > pip install mkdocs
