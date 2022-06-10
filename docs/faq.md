@@ -1,57 +1,60 @@
 # FAQ
 
-## Quid manus inploraret obmutuit tumuli
+**What is FinTechSoc Algothon?**
 
-Lorem markdownum cepere dolisque vestes **lugentis artus** rasilis, placeat.
-Sociis ut regna sororis senectam inquit ad tum ingens nullo petens flamma in si
-quaecumque. Nymphae labor quod inquit nec! Abest hoc habet missi, ab aut numina
-in Perseu inmitem populos sine meae. Sublime Pyreneus rogari apri sine; quem
-tertius inpulsaque blando.
+  Algothon is short for an *algorithmic trading hackathon*, consisting of 3 days of learning, designing and building data-driven trading algorithms using modelling and quant techniques.
 
-Sorores [es facta supraque](http://muneris.io/mediaque.html) sed. Quam ut
-Curibusque iam moles non Acastus minimum, pavent nec carmine.
+---
+**Do I need to be studying at UNSW?**
 
-    if (thunderboltRepository) {
-        mouse.http = errorEmulationAtm;
-    }
-    if (-5 - error_device_flatbed - serverComputer) {
-        ole(memory / minimizeClassWin, definition, dimm_matrix * wpa_rt_laptop);
-        peripheralPort.ugcMenu = proxyWhoisNon;
-        imap_executable_click(barcraft_rpm_cdfs(font),
-                interlaced_koffice_defragment);
-    }
-    ddrSmishing = 2 * ip_ruby_overwrite(eDeprecatedDesktop(balance, viral_sd,
-            diskDegauss), hypermedia);
-    if (addressRetina + commercial_stick_cron + rwRuntime) {
-        rpm_text_ctr += 1 - dimmVgaBurn;
-        websiteBookmark = speakersVolume;
-        metal_servlet_motherboard(binary(wampSdram), srgb, hfs /
-                volume_trackball_rom);
-    }
+  No, any current students at an Australian university are eligible to participate.
 
-## Igne nautae relinque funda
+---
+**Do I need to be Australian?**
 
-Ignorans ubi plebis illa quo potius praemia victa quid Averna Myscelus regnum
-secutum hominemque meruere fuit, [de](http://www.probabosulcat.com/limosoque).
-Illa inane hostia Helenamque ultoris. Feroci in portus sidus spernit Iuppiter
-ipse Iunonem, veneni.
+  No, international students are very welcome to participate, as long as they are a current student at an Australian university.
 
-    var null_directx = parameter;
-    sip.newbie(alignment_key(xpServer(hard_definition_reciprocal,
-            adwareRecursion)));
-    var flatGraphics = onlyFacebook.wiredUps.ripcording(impact_speakers,
-            radcab_dma(kilobitServletUndo + 3), vlog_alu * key);
+---
+**Do I need a pre-organised team to enter?**
 
-## Sonus viri formosius auro
+  No, both individuals and teams are able to register. Individuals will be placed into teams and contacted prior to the competition.
 
-Adest *insuper*; stagna brevi omnes dixit exitus formosa ait quam in. Arma in,
-est vincetis, det exstantibus emoriar citra. Serpentibus mulcebunt, novit et
-stabat adspergine undas **dixit** erigitur. Neque ramis supplex Romani.
+---
+**How large can our teams be?**
 
-    remoteDigitalMonochrome = disk_w;
-    bus.webmail_pebibyte += heatUpsMini;
-    vlog_processor.ios += 5 + hfsInternetHypermedia + manetProgramSerp(
-            affiliateCard - 1, floating_string_memory);
-    encryption = error;
+  Teams must consist of 4 students.
 
-Neque aequora. Erat Nil campus velut est.
+---
+**Is a finance or coding background required?**
+
+  While basic coding ability  and financial knowledge will be advantageous in implementing your strategies, neither are necessary. Note, however, that many of our resources assume at least minimal programming ability. We recommend at least one member of your team be proficient in a coding language such as Python.
+
+  We will provide various workshop materials, as well as guidance through [Algothon101](Algothon101%20+%20Resources%208c65b2da770343e8b5d814812cfa3e25.md) and a pool of learning resources. Additionally, there is plenty of information out there, and we encourage novices to attempt the competition to learn some new skills!
+
+---
+**How can I prepare for the algothon?**
+
+  Have a look at our pre-prepared [Algothon101](Algothon101%20+%20Resources%208c65b2da770343e8b5d814812cfa3e25.md) resource, as well as our compiled list of learning resources! Of course, a huge pool of information and datasets are also publicly accessible online.
+
+---
+**Where will the event be held?**
+
+  The 2021 FinTechSoc Algothon will be held online. Zoom links will be emailed to teams as well as made available in the Information Hub within the [Schedule page](Schedule%200c75155a7f5a4fc3937efb5b56f4d60f.md).
+
+  Pending COVID restrictions, Algothon Finals may be held in-person at SIG's Barangaroo office in Sydney.
+
+---
+**How long do we have for our presentations?**
+
+  Preliminary round submission details can be found **[here](Submission%20c7033aed55a847c4b5b8d248d513bd4d.md),** and will consist of code submission to GitHub, as well as a 1 minute video explaining your algorithm.
+
+  Finalist presentations will consist of a *5 minute* presentation, followed by a *4 minute* Q&A.
+
+---
+**How will our submissions be assessed?**
+
+  Judging criteria can be found **[here.](Judging%20Criteria%20965819f9e8c74d758c635b1359d76100.md)**
+
+
+---
+For any other general inquiries, please email sponsorships.unswfintechsoc@gmail.com, or message our [Facebook page](https://www.facebook.com/unswfintechsoc).
