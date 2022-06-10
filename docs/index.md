@@ -1,4 +1,4 @@
-![Cover photo](/img/cp.png)
+![Cover photo](./img/cp.png)
 
 # <center>Welcome to SIG x UNSW Financial Technology Society's 2021 Algothon.</center>
 
