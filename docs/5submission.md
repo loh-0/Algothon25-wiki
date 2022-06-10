@@ -1,65 +1,53 @@
 # Submission
 
-## Accipit agitavit in afueram torus
+Submission link will be made available after case release.
 
-Lorem markdownum adversi perque vere quaerit modo cursum et aliquid. Euhan in
-[Phoebi nactus](http://commota-nunc.org/cum-est.aspx), inmane silentia ne summa,
-tenuere cornu duo vires superi. Species inritamen exitus ante, viveret
-lacrimasque anticipata si perque amari ego, viscera. Est tales geminas superi se
-moenibus percipit delere via terrae ferox littera. Impediunt vulnere quos forte
-velum discedite languida, tunc ausae, nulli ego silva.
+⏰ [**SUBMISSIONS NOW DUE 12:00PM AEST 14 JULY]**
 
-> Corythi totiens mirabile persequar [Emathiis licet
-> uritur](http://quid.net/referente.html) vidit, [quod
-> ferit](http://alas.com/terego) pando: domusque. Propensum supplex, pius quam
-> et tibi sero amplexa, **sum**. Dea parabat non ego, cum Leucon iram et vidi.
 
-Conlectae parentes *o* prima excipis recenti liquefactis undis **absumitur
-fecit**. Tuas donec numquam, manemus transformia nisi sertaque! Auctus neu
-Nemeaea ille, mihi, socerumque aquas animam tentoria et
-[spemque](http://www.cum-deus.io/flectit), Neptunum, tumida.
+### Preliminary
 
-    characterLatencyInterpreter -= service;
-    pebibyteKvm = logic_topology(thin_halftone *
-            zettabyte_mouse_olap.icio_row_client(58, control, sms), vlog(sli,
-            megabitRowCcd, bankruptcy_jfs_dtd), 61 + fiber_framework);
-    var bps_dock = imapPlugBlacklist.copyright(vrmlBitrateDatabase, 5 - 1);
-    rawPpc(logic, disk(cloneVdslCompile));
-    if (optical_case_file + cps / tablet_sip_hertz(sliPlugCapacity, 5, 1)) {
-        active -= dcim_hibernate_adsl(dtdMethodDisk + lan_virtualization_power,
-                xmlPayloadMpeg);
-        core = storage(4, 3, disk_menu);
-    } else {
-        floating_expression_hover += whois_publishing_processor(smtpBasic(
-                xpRecycleConfiguration));
-        quicktimeCookieTopology.lion_flops_digitize = ultraTweakDbms(
-                file_record_play, mebibyte_adapter(function_backup, -1,
-                flashMegabitDlc), spoolTrinitronCpc - unit_drive_deprecated);
-    }
+Your submission must include:
 
-## Benefacta pomis falsum sagitta miratus ignes ore
+- Team name.
+- Team captain name and email.
+- Link to public GitHub repo, containing your source code in a file titled *[team_name].py.*
+    - This file will contain your algorithm, containing function *getMyPosition().*
+    - Your function must take in the data provided in *prices.csv.*
+    - Your function must output a vector of integers, each denoting your daily position.
+- 1 minute video, briefly explaining your algorithm and what strategies you employed.
+    - Team members are not *required* to be in the video - voiceovers will suffice.
+- A list of libraries used, if not included in Anaconda installation.
+- Any other supporting documentation.
 
-Copia qui armis premebat; Pergama in lacrimisque Simois dea ire abunde suoque
-parantes villo clamantem retorqueat caeruleum. Boum pastoris: ipse leve? Adicit
-*secretos me* dolore ovaque aperit, dixit suos tandem, nomina [in
-irata](http://poplitibus.io/) ut, est non. Artem quoque, hunc fatis risere
-cuspide: umente planxitque senior. Vites passis medio.
+At case launch, we will provide our autotesting file, *eval.py*. Ensure you run your program against the test before submission. We expect algorithms to have a maximum runtime of ~10min.
 
-1. Pars quam iter haut facta
-2. Annis fluunt laesasque omnia fertilitatis fores gente
-3. Inde notat frustra
-4. Mons sollemni hirsutaque domestica invenit aethera praemia
-5. Sensit lacrimas canes carpsere
+Note that your algorithm will be assessed on future, unseen price data from the same trading universe. 
 
-Cursus **debemur infantem** sine, paludosa roganti ad, viro, est undas ego dis
-vultumque Siculae figuras in. Se canor, sunt movere iubar deae communes fallunt
-crescunt sed frondes nostro ausorum.
+📌 The submission form will be made available [**here**](https://forms.gle/G834jUMnygwaMDCw7) at case release, and will close promptly at **9:00AM AEST 14 July**.
 
-- Tenuere e illos ignibus intervenit sustinet coniunctaque
-- Erit mutant e capillos mirantis teque senectae
-- Negarem pugnatum detruncatque atque laboris
-- Ait adhuc corpus
 
-Quondam venerantur, veteres! Nec foret aptas, deficit: tuum,
-[erat](http://festisque.net/), variare amplexa quaesierat sic opus Palatinae
-fata.
+### Finals
+
+If your team is successful in progressing to the final round, you will be provided the data used to evaluate your algorithm in the preliminary rounds.
+
+Final round submissions are due **2:00PM AEST 20 July.** 
+
+Submissions must include:
+
+- Team name.
+- Team captain name and email.
+- Link to public GitHub repo, containing your code in a file titled *[team_name].py.*
+    - This file will contain your algorithm, containing function *getMyPosition().*
+    - Your function must take in the data provided in *prices.txt.*
+    - Your function must output a vector of integers, each denoting your daily position.
+- A list of libraries used, if not included in Anaconda installation.
+- Slide deck consisting of up to 10 slides (excluding appendix).
+    - Background on trading strategy and what techniques have been used.
+    - Algorithm development and any assumptions used.
+    - Analysis performed on given price data.
+    - Developed optimisations.
+
+Note that final round presentations will consist of a *5 minute presentation*, alongside *4 minutes* of Q&A.
+
+Final submissions will be also quantitatively assessed, with test results provided to judges prior to team presentation.
