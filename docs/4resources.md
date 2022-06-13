@@ -1,12 +1,19 @@
 # Algothon101 + Resources
 
-**Table of Contents**
+## **IMPORTANT** ##
+
+The following materials serve as supplementary reosurces to our Algothon workshops. Please refer to the workshop recordings to understand key skills for the competition.
+
+Please note that the workshop will not provide all required knowledge for the competition. Additional research will be required, and below provides a great start!!
+
+## *Workshop Resources ##
+
+*Work in progress - please check closer to competition start dates*
 
 ## Guidance
 
 The following is provided only as guidance, to assist with direction in completing this challenge. You can choose to use any, none or all of it, given that your submission fall within the specified criteria. We would like to see different models developed in the competition, and any projects that address the investment themes will have a fair chance at winning!
 
-## **Learning Resources | Where to Get Started**
 
 There are almost infinite free resources online regarding both the financials and technicals required in algorithmic trading, but we've compiled a bunch we think are useful!
 

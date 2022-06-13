@@ -2,7 +2,7 @@
 
 ## **What is FinTechSoc Algothon?**
 
-  Algothon is short for an *algorithmic trading hackathon*, consisting of 3 days of learning, designing and building data-driven trading algorithms using modelling and quant techniques.
+  Algothon is short for an *algorithmic trading hackathon*, consisting a fortnight of learning, designing and building data-driven trading algorithms using modelling and quant techniques.
 
 ---
 ## **Do I need to be studying at UNSW?**
@@ -22,24 +22,24 @@
 ---
 ## **How large can our teams be?**
 
-  Teams must consist of 4 students.
+  Teams must consist of 3-4 students.
 
 ---
 ## **Is a finance or coding background required?**
 
   While basic coding ability  and financial knowledge will be advantageous in implementing your strategies, neither are necessary. Note, however, that many of our resources assume at least minimal programming ability. We recommend at least one member of your team be proficient in a coding language such as Python.
 
-  We will provide various workshop materials, as well as guidance through [Algothon101](Algothon101%20+%20Resources%208c65b2da770343e8b5d814812cfa3e25.md) and a pool of learning resources. Additionally, there is plenty of information out there, and we encourage novices to attempt the competition to learn some new skills!
-
 ---
 ## **How can I prepare for the algothon?**
 
-  Have a look at our pre-prepared [Algothon101](Algothon101%20+%20Resources%208c65b2da770343e8b5d814812cfa3e25.md) resource, as well as our compiled list of learning resources! Of course, a huge pool of information and datasets are also publicly accessible online.
+  Please look out for our Algothon workshops and their respective recordings. Additionally, you may need to perform some additional research, and use some supplementary learning resoucres. We compiled some in the resources section!.
+
+  *Work in progress*
 
 ---
 ## **Where will the event be held?**
 
-  The 2021 FinTechSoc Algothon will be held online. Zoom links will be emailed to teams as well as made available in the Information Hub within the [Schedule page](Schedule%200c75155a7f5a4fc3937efb5b56f4d60f.md).
+  The 2021 FinTechSoc Algothon will be held online. 
 
   Pending COVID restrictions, Algothon Finals may be held in-person at SIG's Barangaroo office in Sydney.
 
@@ -57,4 +57,4 @@
 
 
 ---
-For any other general inquiries, please email sponsorships.unswfintechsoc@gmail.com, or message our [Facebook page](https://www.facebook.com/unswfintechsoc).
+For any other general inquiries, please email *events@unswfintech.com* with '[2022 Algothon - General Query]' preceding your subject line, or message our Facebook page., or message our [Facebook page](https://www.facebook.com/unswfintechsoc).
