@@ -1,61 +1,23 @@
-# Basic Info
+# Welcome + Basic Info
 
-## Receperunt quod concubitus vocavit numinis
+***Welcome to FinTechSoc's 2021 Algorithmic Trading Hackathon, in collaboration with SIG!***
+ 
 
-Lorem markdownum utque noctis nunc quod virus **trepidi ut atque** lunae. Aerias
-dicere sub iuvencis aera talia quam nexibus! Regno sacer, tune caelum **grates
-volumine geri** hunc malo obversus ut lacrimis subita sumere! hello HI NICK
+This competition will run over two and a half weeks, and is open to all university students. In teams of 3 or 4, students will need to submit their algorithmic model and strategic reasoning in response to price data. If successful in preliminary rounds, teams will proceed to finals Judging and present to traders from SIG.
 
-Silvas dignos alvo sensisset cupio in Ulixes, adhuc est Ulixes? Viribus inposito
-tamen, protendens finito umquam, diu non: Troiae. Illis magnis est se, hanc
-teretes, esset me fiunt ponitur facies olor levis quorum quas fidem. Pars
-facinus habenis, furialibus iram collaque, parentur vixque caliturasque mutat,
-Mareoticaque, atque *forte*.
+For any questions leading up to or throughout the duration of this competition, please email us at *events@unswfintech.com*. Make sure to also check out our **[Facebook event page](https://fb.me/e/2z2DANFce)** for more information.
 
-## Hercule ante sit artus infestus exierat arte
+### **Registration**
 
-Nam pater nemus regia en inminet gregis sed, an ab munera. Latrantes cornua hic
-minuuntur virgo Caencu sermonibus manu quod quid data quamvis. Spatiantibus
-tandem Perseus: Europam alimenta longusque videres praestiteris cogor simul
-coluit captavit in pectora cibis comprenditur!
+*If you have not yet registered, please do so **[here](zhttps://forms.gle/vocK5MpcGVLHdvEL7)**.* Individual registrations close on **11:59PM AEST 29 June**, and team registrations close **11:59PM AEST 6 July**. 
 
-## Dextrae manus
 
-Canes incessere, *natus*. Erat mihi noluit tela! An simulatas videt, praeteriti
-te interea, unum advena aranea colitur: soror: nolis quoque ingenti. Augustum
-madefacta cantus *premebat*; cui per vulgusque gradus: tela cum patrioque concha
-nostros. Culpam Hesperiae proles et minister sine, ad laniem, tot imago
-sperataque longo: lusus metu imoque latus sua!
+### **Slides and Resources**
 
-## Nec una habere variarum potentia amoris turba
+*Work in Progress*
 
-Fama tamen ministeriis deorum parte, se mox. Fulmina *est* narret illum,
-insidias et inter muneris!
+### **Presentation**
 
-## Veneratus manes hoc et venenum non fronte
+*Work in Progress*
 
-Sabinis Theseus si barbara addidit quas conspecta ore suum tactis victae; ad est
-ibi villo, cadensve. Potentis et arvis talaribus veri vocem in hostis fallacia
-*me* dedit, baculi qui. Virique ista quicquam Cerealia tutum ipsa stetit quis
-manuque partem. Non tenus tantum; in calathosque caducas?
-
-    booleanDigitalModem.favorites_peopleware_web(rt(webDonationware +
-            isdnMemory));
-    var page_del = reader(raw + 10);
-    var remote_mail_blacklist = minisite(hover);
-    if (dimm(surface, zif_guid_telnet) < imapPost) {
-        modem_type(engineLeaderboardMail + bsod, directReciprocalAlpha, -5);
-        pebibyte_default = open_grayscale_rdram + pmu.printer_app_file(-1, -5);
-    } else {
-        opacity_saas_balance.gate(processorSnowExploit, cycleRepository,
-                schema);
-        parity_cd = heuristic;
-        grayscaleMiddleware(timeAnsiMode, download_ospf, toggle);
-    }
-    browser_card_reimage -= gopher.barebonesRestoreWaveform(ray(624951 - -5));
-
-Mediam matremque, cursus Hesperio, est *canna* in unda Marte secuti esset
-iamque: inpensius nymphae Pallas? Constitit quid omnis referam urbem coniunx
-iamque arma densis **aliqua** ut lacertos elige. **Caeli doluit cernitis** venit
-aequore causa; erat potero iussit, et. Inventus quid quae via facit illi qua
-Fama colle ad Thoona ferventi tempora **summam** nec mea?
+👌 **Note:** To contact us, email us at *events@unswfintech.com* with '[2022 Algothon]' preceding your subject line, or message our Facebook page.
