@@ -12,12 +12,15 @@ We're making this page available for you to gain access to our Algothon Guidelin
 ## Case Brief
 Fork, then clone the GitHub repository in the top right corner of the page. It contains the case brief, your evaluating program, price data and a base submission file to develop your algorithm!
 
-Register [here](https://forms.gle/k8epGyuM1iXJgZGf7) by: 
+
 
 ## Register Now!
 
-* 11:59 PM AEDT 29 June for individuals.
-* 11:59 PM AEDT 6 July for teams.
+
+Register [here](https://forms.gle/k8epGyuM1iXJgZGf7) by: 
+
+* 11:59 PM AEST 29 June for individuals.
+* 11:59 PM AEST 6 July for teams.
 
 Access the Facebook event [here](https://fb.me/e/2z2DANFce).
 
