@@ -6,7 +6,7 @@ The following materials serve as supplementary reosurces to our Algothon worksho
 
 Please note that the workshop will not provide all required knowledge for the competition. Additional research will be required, and below provides a great start!!
 
-## *Workshop Resources ##
+## Workshop Resources ##
 
 *Work in progress - please check closer to competition start dates*
 
