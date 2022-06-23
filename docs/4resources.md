@@ -2,7 +2,7 @@
 
 ## **IMPORTANT** ##
 
-The following materials serve as supplementary reosurces to our Algothon workshops. Please refer to the workshop recordings to understand key skills for the competition.
+The following materials serve as supplementary resources to our Algothon workshops. Please refer to the workshop recordings to understand key skills for the competition.
 
 Please note that the workshop will not provide all required knowledge for the competition. Additional research will be required, and below provides a great start!!
 

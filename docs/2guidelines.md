@@ -6,8 +6,6 @@ We recommend that each team have at least one member with programming experience
 
 ---
 
-**Table of Contents**
-
 ## Objective
 
 Develop a trading strategy algorithm to perform optimally given certain metrics.
