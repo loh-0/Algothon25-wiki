@@ -9,7 +9,7 @@ For any questions leading up to or throughout the duration of this competition, 
 
 ### **Registration**
 
-*If you have not yet registered, please do so **[here](zhttps://forms.gle/vocK5MpcGVLHdvEL7)**.* Individual registrations close on **11:59PM AEST 29 June**, and team registrations close **11:59PM AEST 6 July**. 
+*If you have not yet registered, please do so **[here](zhttps://forms.gle/vocK5MpcGVLHdvEL7)**.* Individual registrations close on **5:00PM AEDT 5 July**, and team registrations close **11:59PM AEDT 6 July**. 
 
 
 ### **Slides and Resources**

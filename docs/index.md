@@ -30,7 +30,7 @@ Access the Facebook event [here](https://fb.me/e/2s8B14mEG).
 
 Register [here](https://forms.gle/mjyngHGdPRPeCdWH9) by:
 
-* 11:59 PM AEDT 29 June for individuals.
+* 5:00 PM AEDT 1 July for individuals.
 * 11:59 PM AEDT 6 July for teams.
 
 ## Submissions
