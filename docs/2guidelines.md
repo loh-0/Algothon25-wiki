@@ -22,7 +22,7 @@ Develop a trading strategy algorithm to perform optimally given certain metrics.
     - Projections for worst-case scenarios and methods to mitigate this.
     - Considering risk factors, and techniques to minimise risk.
 
-For more information, make sure to take a look at our [learning resources and technical advice](Algothon101%20+%20Resources%208c65b2da770343e8b5d814812cfa3e25.md) page!
+For more information, make sure to take a look at our [learning resources and technical advice](https://unsw-fintech-society-events.github.io/algothon2022/4resources/) page!
 
 # Case Brief
 
@@ -90,8 +90,8 @@ We expect algorithms to have a maximum runtime of ~10min.
 
 ## Submission
 
-Submission details can be found on our [Submission](Submission%20c7033aed55a847c4b5b8d248d513bd4d.md) page.
+Submission details can be found on our [Submission](https://unsw-fintech-society-events.github.io/algothon2022/5submission/) page.
 
 Ensure that all code submitted is tested against *eval.py* **This will be the test used to evaluate the performance of your algorithm.**
 
-Judging criteria can be found [here.](Judging%20Criteria%20965819f9e8c74d758c635b1359d76100.md)
+Judging criteria can be found [here.](https://unsw-fintech-society-events.github.io/algothon2022/6criteria/)

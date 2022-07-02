@@ -46,14 +46,14 @@
 ---
 ## **How long do we have for our presentations?**
 
-  Preliminary round submission details can be found **[here](Submission%20c7033aed55a847c4b5b8d248d513bd4d.md),** and will consist of code submission to GitHub, as well as a 1 minute video explaining your algorithm.
+  Preliminary round submission details can be found **[here](https://unsw-fintech-society-events.github.io/algothon2022/5submission/),** and will consist of code submission to GitHub, as well as a 1 minute video explaining your algorithm.
 
   Finalist presentations will consist of a *5 minute* presentation, followed by a *4 minute* Q&A.
 
 ---
 ## **How will our submissions be assessed?**
 
-  Judging criteria can be found **[here.](Judging%20Criteria%20965819f9e8c74d758c635b1359d76100.md)**
+  Judging criteria can be found **[here.](https://unsw-fintech-society-events.github.io/algothon2022/6criteria/)**
 
 
 ---
