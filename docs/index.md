@@ -22,7 +22,11 @@ We're making this page available for you to gain access to our Algothon Guidelin
 
 
 ## Case Brief
-When this becomes available, the link to the repository will be accessible here.
+The link to the repository is displayed in the header of this site. 
+
+Please fork/download a copy of the repository. 
+
+Alternatively, click [here](https://github.com/UNSW-Fintech-Society-Events/algothon2022-starter-code) to be redirected to Github.
 
 Access the Facebook event [here](https://fb.me/e/2s8B14mEG).
 
