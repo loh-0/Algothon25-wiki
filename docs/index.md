@@ -13,12 +13,7 @@ We're making this page available for you to gain access to our Algothon Guidelin
 
 ## Updates 
 
-### Workshop 1 (Python) Links
-> Click [here](https://zoom.us/rec/share/sF8EVA8-_VaUEnGM-3ZoIgSbD5bYyGoW1TXnYD1U71-A0PHdR_8DU116lU2Ab5Qi.OhWS8Dh6lV2ibvC9) for the recording. 
-
-> Click [here](https://unsw-my.sharepoint.com/:p:/g/personal/z5363065_ad_unsw_edu_au/EU0JccsEvXpAqg_s6zTMS2MBR3nhdrKBAT9pcOBlouPE_g?rtime=DCx2B_5U2kg) for the workshop slides. 
-
-> Click [here](https://replit.com/@UNSW-Fintech-So/AlgothonWorkshop1-Overview#main.py) for the workshop codebase.
+- Access the Facebook event [here](https://fb.me/e/2s8B14mEG).
 
 
 ## Case Brief
@@ -28,13 +23,11 @@ Please fork/download a copy of the repository.
 
 Alternatively, click [here](https://github.com/UNSW-Fintech-Society-Events/algothon2022-starter-code) to be redirected to Github.
 
-Access the Facebook event [here](https://fb.me/e/2s8B14mEG).
-
 ## Register Now!
 
 Register [here](https://forms.gle/mjyngHGdPRPeCdWH9) by:
 
-* 5:00 PM AEDT 1 July for individuals.
+* Registrations for individuals have closed. 
 * 11:59 PM AEDT 6 July for teams.
 
 ## Submissions
