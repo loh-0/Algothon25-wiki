@@ -25,6 +25,10 @@ For any questions leading up to or throughout the duration of this competition, 
 
 > Click [here](https://drive.google.com/file/d/1qJPwl48jnsaiHP7QxfK7TlED60zx0UO2/view?usp=sharing) for the workshop slides.
 
+### Kick-off / Q&A Event Links
+
+> Click [here] https://drive.google.com/file/d/1G0wvL4JEmI67sesG6Sew-xuha0aIqR70/view?fbclid=IwAR2qx_o0H80EoLasI_0h7pxUlPSb4gmBrNBczCfZgeWARtuQhxkI1wlNmPI) for the slides.
+
 ---
 
 👌 **Note:** To contact us, email us at *events@unswfintech.com* with '[2022 Algothon]' preceding your subject line, or message our Facebook page.
