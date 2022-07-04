@@ -21,7 +21,7 @@ Please note that the workshop will not provide all required knowledge for the co
 
 ### Kick-off / Q&A Event Links
 
-> Click [here] https://drive.google.com/file/d/1G0wvL4JEmI67sesG6Sew-xuha0aIqR70/view?fbclid=IwAR2qx_o0H80EoLasI_0h7pxUlPSb4gmBrNBczCfZgeWARtuQhxkI1wlNmPI) for the slides.
+> Click [here](https://drive.google.com/file/d/1G0wvL4JEmI67sesG6Sew-xuha0aIqR70/view?fbclid=IwAR2qx_o0H80EoLasI_0h7pxUlPSb4gmBrNBczCfZgeWARtuQhxkI1wlNmPI) for the slides.
 
 ## Guidance
 

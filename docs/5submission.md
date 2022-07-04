@@ -1,6 +1,6 @@
 # Submission
 
-You can submit your GitHub repo [here](https://docs.google.com/forms/d/1ob93KtRs64805ReBImVRcpZ2qdcf0wan8KVg65bRB_4/edit?no_redirect=true).
+You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8).
 
 If your team is successful as a finalist, you will receive a separate submission link for your final submission.
 

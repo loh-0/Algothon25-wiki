@@ -28,6 +28,12 @@ We're making this page available for you to gain access to our Algothon Guidelin
 
 > Click [here](https://drive.google.com/file/d/1qJPwl48jnsaiHP7QxfK7TlED60zx0UO2/view?usp=sharing) for the workshop slides.
 
+### Kick-off / Q&A Event Links
+
+> Click [here](https://drive.google.com/file/d/1G0wvL4JEmI67sesG6Sew-xuha0aIqR70/view?fbclid=IwAR2qx_o0H80EoLasI_0h7pxUlPSb4gmBrNBczCfZgeWARtuQhxkI1wlNmPI) for the slides.
+
+A quick overview of the case problem and constraints can be found in these slides.
+
 
 ## Case Brief
 The link to the repository is displayed in the header of this site. 
@@ -45,7 +51,7 @@ Register [here](https://forms.gle/mjyngHGdPRPeCdWH9) by:
 
 ## Submissions
 
-Submit your Algothon solution [here](https://docs.google.com/forms/d/1ob93KtRs64805ReBImVRcpZ2qdcf0wan8KVg65bRB_4/edit?no_redirect=true). 
+Submit your Algothon solution [here](https://forms.gle/GiTtibt3qV4MxWPM8). 
 
 More information can be found in the submissions tab. 
 
