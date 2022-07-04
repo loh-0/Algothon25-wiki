@@ -21,9 +21,10 @@ For any questions leading up to or throughout the duration of this competition, 
 
 > Click [here](https://replit.com/@UNSW-Fintech-So/AlgothonWorkshop1-Overview#main.py) for the workshop codebase.
 
+### Workshop 2 - Algorithmic Trading Links 
 
-### **Presentation**
+> Click [here](https://drive.google.com/file/d/1qJPwl48jnsaiHP7QxfK7TlED60zx0UO2/view?usp=sharing) for the workshop slides.
 
-*Work in Progress*
+---
 
 👌 **Note:** To contact us, email us at *events@unswfintech.com* with '[2022 Algothon]' preceding your subject line, or message our Facebook page.
