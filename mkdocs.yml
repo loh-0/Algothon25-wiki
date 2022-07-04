@@ -1,7 +1,7 @@
 site_name: Algothon 2022
 
-repo_url:
-repo_name: algothon21
+repo_url: https://github.com/UNSW-Fintech-Society-Events/algothon2022-starter-code
+repo_name: Algothon 2022 Starter Code
 
 theme:
   features:

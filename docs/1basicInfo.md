@@ -14,10 +14,17 @@ For any questions leading up to or throughout the duration of this competition, 
 
 ### **Slides and Resources**
 
-*Work in Progress*
+### Workshop 1 (Python) Links
+> Click [here](https://zoom.us/rec/share/sF8EVA8-_VaUEnGM-3ZoIgSbD5bYyGoW1TXnYD1U71-A0PHdR_8DU116lU2Ab5Qi.OhWS8Dh6lV2ibvC9) for the recording.
 
-### **Presentation**
+> Click [here](https://unsw-my.sharepoint.com/:p:/g/personal/z5363065_ad_unsw_edu_au/EU0JccsEvXpAqg_s6zTMS2MBR3nhdrKBAT9pcOBlouPE_g?rtime=DCx2B_5U2kg) for the workshop slides.
 
-*Work in Progress*
+> Click [here](https://replit.com/@UNSW-Fintech-So/AlgothonWorkshop1-Overview#main.py) for the workshop codebase.
+
+### Workshop 2 - Algorithmic Trading Links 
+
+> Click [here](https://drive.google.com/file/d/1qJPwl48jnsaiHP7QxfK7TlED60zx0UO2/view?usp=sharing) for the workshop slides.
+
+---
 
 👌 **Note:** To contact us, email us at *events@unswfintech.com* with '[2022 Algothon]' preceding your subject line, or message our Facebook page.

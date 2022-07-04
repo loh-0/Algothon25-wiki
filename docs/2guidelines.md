@@ -24,8 +24,9 @@ Develop a trading strategy algorithm to perform optimally given certain metrics.
 
 For more information, make sure to take a look at our [learning resources and technical advice](https://unsw-fintech-society-events.github.io/algothon2022/4resources/) page!
 
-# Case Brief
+---
 
+## **<p align="center"><ins>Case Brief</ins></p>**
 ## Task
 
 Implement a function *getMyPosition()* which
