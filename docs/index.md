@@ -32,8 +32,8 @@ Register [here](https://forms.gle/mjyngHGdPRPeCdWH9) by:
 
 ## Submissions
 
-Information regarding submissions will be provided here. 
-[//]: # (Submit your Algothon solution [here]&#40;https://forms.gle/uWHW5DN9kXS2xoFo9&#41;. )
-[//]: # (Any competition feedback is welcome [here]&#40;https://forms.gle/X5tcWnrGauKxpBak7&#41;.)
+Submit your Algothon solution [here](https://docs.google.com/forms/d/1ob93KtRs64805ReBImVRcpZ2qdcf0wan8KVg65bRB_4/edit?no_redirect=true). 
+
+More information can be found in the submissions tab. 
 
 Contact us at *events@unswfintech.com* with '[2022 Algothon]' preceding your subject line, or message our Facebook page.
