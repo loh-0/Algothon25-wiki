@@ -25,11 +25,11 @@ We're making this page available for you to gain access to our Algothon Guidelin
 > Click [here](https://replit.com/@UNSW-Fintech-So/AlgothonWorkshop1-Overview#main.py) for the workshop codebase.
 
 ### Workshop 2 - Algorithmic Trading Links
-
+** Due to security constraints, this workshop was NOT recorded.**
 > Click [here](https://drive.google.com/file/d/1qJPwl48jnsaiHP7QxfK7TlED60zx0UO2/view?usp=sharing) for the workshop slides.
 
 ### Kick-off / Q&A Event Links
-
+** Due to security constraints, this workshop was NOT recorded.**
 > Click [here](https://drive.google.com/file/d/1G0wvL4JEmI67sesG6Sew-xuha0aIqR70/view?fbclid=IwAR2qx_o0H80EoLasI_0h7pxUlPSb4gmBrNBczCfZgeWARtuQhxkI1wlNmPI) for the slides.
 
 A quick overview of the case problem and constraints can be found in these slides.
