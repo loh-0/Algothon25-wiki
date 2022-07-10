@@ -65,6 +65,15 @@ Algorithms must be contained in a file titled *[teamName].py.*
     - When *getMyPosition()* is called, we will trade position differences from the previous position **at the most recent price, buying or selling.**
     - Consider the case where your last position was +30, and the new stock price is $20. If your new position is +100, *eval* will register this as buying 70 **extra** shares at $20 a share. If your new position is -200, *eval* will sell 230 shares also at $20 a share.
 
+### **Accepted Packages**
+
+To ensure that code runs smoothly on the servers used for marking, we advise the following:
+
+- Use only standard packages and their respective versions from the Anaconda library. The best way to do this is to simply download Anaconda...
+- Where necessary, packages that are not included as part of Anaconda, or version numbers that are greater than those provided in Anaconda need to be declared in the submission form in the relevant section.
+
+We will attempt to import and run through all non-standard packages if declared. However, in the case that your code still does not run, your team will be **disqualified**. Similarly, if your submission does not declare a non-standard package or provide a brief description of its use, it will also be **disqualified**.
+
 ### **Considerations**
 
 - A commission rate of 25 bps (0.0025) can be assumed, meaning you will be charged commission equating 0.0025 * *totalDollarVolumeTraded*. This will be deducted from your PL.
