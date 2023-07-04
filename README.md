@@ -1,15 +1,17 @@
-# Algothon 2022 Documentation
+# Algothon 2023 Documentation
 
 ## Setup
+
 > pip install mkdocs
 
 > pip install mkdocs-material
 
 ## Build and Run
-> mkdocs serve 
+
+> mkdocs serve
 
 > mkdocs build
 
 ## Deploy
+
 > mkdocs gh-deploy
- 

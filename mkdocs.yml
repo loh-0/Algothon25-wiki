@@ -1,7 +1,7 @@
-site_name: Algothon 2022
+site_name: Algothon 2023
 
-repo_url: https://github.com/UNSW-Fintech-Society-Events/algothon2022-starter-code
-repo_name: Algothon 2022 Starter Code
+repo_url: https://github.com/UNSW-Fintech-Society-Events/algothon2023-starter-code
+repo_name: Algothon 2023 Starter Code
 
 theme:
   features:
@@ -16,4 +16,3 @@ theme:
   favicon: img/fintech.png
   palette:
     primary: black
-
