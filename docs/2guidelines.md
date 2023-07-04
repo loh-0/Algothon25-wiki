@@ -1,5 +1,7 @@
 # Algothon Guidelines + Brief
 
+# TODO UPDATE THESE DATES
+
 Preliminary round submissions are due **9:00AM AEST 14 July.** 5 teams will proceed to the final round, held at **6:00PM AEST 21 July** and judged by SIG traders in office.
 
 We recommend that each team have at least one member with programming experience in Python, as well as financial knowledge. Impressive submissions will be expected to involve reasonably advanced data analysis and implementation of reasonably sophisticated trading strategies.
