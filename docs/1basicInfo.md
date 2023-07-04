@@ -1,14 +1,16 @@
 # Welcome + Basic Info
 
-**_Welcome to FinTechSoc's 2021 Algorithmic Trading Hackathon, in collaboration with SIG!_**
+**_Welcome to FinTechSoc's 2023 Algorithmic Trading Hackathon, in collaboration with SIG!_**
 
 This competition will run over two and a half weeks, and is open to all university students. In teams of 3 or 4, students will need to submit their algorithmic model and strategic reasoning in response to price data. If successful in preliminary rounds, teams will proceed to finals Judging and present to traders from SIG.
 
-For any questions leading up to or throughout the duration of this competition, please email us at *events@unswfintech.com*. Make sure to also check out our **[Facebook event page](https://fb.me/e/2z2DANFce)** for more information.
+For any questions leading up to or throughout the duration of this competition, please email us at *events@unswfintech.com*. Make sure to also check out our **[Facebook event page](https://fb.me/e/4FXkJDX2q)** for more information.
 
 ### **Registration**
 
-_If you have not yet registered, please do so **[here](zhttps://forms.gle/vocK5MpcGVLHdvEL7)**._ Individual registrations close on **5:00PM AEDT 5 July**, and team registrations close **11:59PM AEDT 6 July**.
+\_If you have not yet registered, please do so **[here](https://docs.google.com/forms/d/e/1FAIpQLScKABOp98QT5q3bpMP4yUoZIojYFzbZa-Imkm8ZUQvZshpRIg/viewform)** for individuals, and **[here](https://docs.google.com/forms/d/e/1FAIpQLSdSw-QtPbwhkQDUFpRta-QMkep_BsKXpraJMnmb3qH25RkYgQ/viewform)** for teams. Individual registrations close on **11:59pm 12th July AEDT**, and team registrations close **11:59pm 14th July AEDT**.
+
+# TODO UDPATE THIS
 
 ### **Slides and Resources**
 

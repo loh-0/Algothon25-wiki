@@ -1,9 +1,9 @@
 # Prizes
 
-*Participate in the Algothon to receive a share of a 1.8k prize pool!*
+_Participate in the Algothon to receive a share of a 2.8k prize pool!_
 
-🥇 1st Place: $250 prepaid Eftpos gift card per team member.  
-🥈 2nd Place: $150 prepaid Eftpos gift card per team member.  
-🥉 3rd Place: $50 prepaid Eftpos gift card per team member.
+🥇 1st Place: $400 per team member.  
+🥈 2nd Place: $200 per team member.  
+🥉 3rd Place: $100 per team member.
 
 Further prizes / perks to be announced after event launch (including networking and interview opportunities, and SIG merch!) 🏆☕

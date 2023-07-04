@@ -8,13 +8,15 @@
 
 [//]: # "For full documentation visit [mkdocs.org](https://www.mkdocs.org)."
 
-Welcome to the third year of the Algothon - the first student-led algorithmic trading hackathon in Australia!
+Welcome to the fourth year of the Algothon - the first student-led algorithmic trading hackathon in Australia!
 
 We're making this page available for you to gain access to our Algothon Guidelines, learning resources and technical advice, which will hopefully assist you in the competition. More information regarding the Algothon objectives, schedule and prizes will be made available in the lead-up to our competition start date.
 
 ## Updates
 
-- Access the Facebook event [here](https://fb.me/e/2s8B14mEG).
+- Access the Facebook event [here](https://fb.me/e/4FXkJDX2q).
+
+# TODO: UPDATE THESE LINKS
 
 ## Slides and Resources
 
@@ -61,4 +63,4 @@ Submit your Algothon solution [here](https://forms.gle/GiTtibt3qV4MxWPM8).
 
 More information can be found in the submissions tab.
 
-Contact us at *events@unswfintech.com* with '[2022 Algothon]' preceding your subject line, or message our Facebook page.
+Contact us at *events@unswfintech.com* with '[2023 Algothon]' preceding your subject line, or message our Facebook page.
