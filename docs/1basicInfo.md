@@ -32,4 +32,4 @@ For any questions leading up to or throughout the duration of this competition, 
 
 ---
 
-👌 **Note:** To contact us, email us at *events@unswfintech.com* with '[2023 Algothon]' preceding your subject line, or message our Facebook page.
+👌 **Note:** To contact us, email us at *careers.unswfintech+algothon@gmail.com*.
