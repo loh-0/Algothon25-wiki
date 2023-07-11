@@ -1,5 +1,3 @@
-# TODO: UPDATE SUBMISSION LINK AND RULES
-
 # Submission
 
 You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8).

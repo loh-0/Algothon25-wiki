@@ -1,30 +1,10 @@
-# TODO UPDATE ALL THESE DATES
-
-# Algothon101 + Resources
+# Other Help
 
 ## **IMPORTANT**
 
 The following materials serve as supplementary resources to our Algothon workshops. Please refer to the workshop recordings to understand key skills for the competition.
 
 Please note that the workshop will not provide all required knowledge for the competition. Additional research will be required, and below provides a  great start!!
-
-## Workshop Resources
-
-### Workshop 1 (Python) Links
-
-> Click [here](https://zoom.us/rec/share/sF8EVA8-_VaUEnGM-3ZoIgSbD5bYyGoW1TXnYD1U71-A0PHdR_8DU116lU2Ab5Qi.OhWS8Dh6lV2ibvC9) for the recording.
-
-> Click [here](https://unsw-my.sharepoint.com/:p:/g/personal/z5363065_ad_unsw_edu_au/EU0JccsEvXpAqg_s6zTMS2MBR3nhdrKBAT9pcOBlouPE_g?rtime=DCx2B_5U2kg) for the workshop slides.
-
-> Click [here](https://replit.com/@UNSW-Fintech-So/AlgothonWorkshop1-Overview#main.py) for the workshop codebase.
-
-### Workshop 2 - Algorithmic Trading Links
-
-> Click [here](https://drive.google.com/file/d/1qJPwl48jnsaiHP7QxfK7TlED60zx0UO2/view?usp=sharing) for the workshop slides.
-
-### Kick-off / Q&A Event Links
-
-> Click [here](https://drive.google.com/file/d/1G0wvL4JEmI67sesG6Sew-xuha0aIqR70/view?fbclid=IwAR2qx_o0H80EoLasI_0h7pxUlPSb4gmBrNBczCfZgeWARtuQhxkI1wlNmPI) for the slides.
 
 ## Guidance
 

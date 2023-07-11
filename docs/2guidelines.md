@@ -1,10 +1,8 @@
-# Algothon Guidelines + Brief
-
-# TODO UPDATE THESE DATES
+# Brief
 
 Preliminary round submissions are due **9:00AM AEST 14 July.** 5 teams will proceed to the final round, held at **6:00PM AEST 21 July** and judged by SIG traders in office.
 
-We recommend that each team have at least one member with programming experience in Python, as well as financial knowledge. Impressive submissions will be expected to involve reasonably advanced data analysis and implementation of reasonably sophisticated trading strategies.
+[//]: # (We recommend that each team have at least one member with programming experience in Python, as well as financial knowledge. Impressive submissions will be expected to involve reasonably advanced data analysis and implementation of reasonably sophisticated trading strategies.)
 
 ---
 
@@ -24,7 +22,7 @@ Develop a trading strategy algorithm to perform optimally given certain metrics.
    - Projections for worst-case scenarios and methods to mitigate this.
    - Considering risk factors, and techniques to minimise risk.
 
-For more information, make sure to take a look at our [learning resources and technical advice](https://unsw-fintech-society-events.github.io/algothon2022/4resources/) page!
+[//]: # (For more information, make sure to take a look at our [learning resources and technical advice]&#40;https://unsw-fintech-society-events.github.io/algothon2022/4resources/&#41; page!)
 
 ---
 
@@ -107,4 +105,4 @@ Submission details can be found on our [Submission](https://unsw-fintech-society
 
 Ensure that all code submitted is tested against _eval.py_ **This will be the test used to evaluate the performance of your algorithm.**
 
-Judging criteria can be found [here.](https://unsw-fintech-society-events.github.io/algothon2022/6criteria/)
+[//]: # (Judging criteria can be found [here.]&#40;https://unsw-fintech-society-events.github.io/algothon2022/6criteria/&#41;)

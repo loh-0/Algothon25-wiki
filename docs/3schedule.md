@@ -1,27 +1,29 @@
 # Schedule
 
-👌 **_Note:_** For emergencies, please email **events@unswfintech.com** with the subject title "[ALGOTHON - Urgent] Subject".
+👌 **_Note:_** For emergencies, please email **careers.unswfintech+algothon@gmail.com** with the subject title "[ALGOTHON - Urgent] Subject".
 
-_Links will be updated as the Algothon progresses._
+[//]: # (_Links will be updated as the Algothon progresses._)
 
-### Pre-Competition
+[//]: # (### Pre-Competition)
 
-# TODO UPDATE THESE DATES/TIMES
+[//]: # ()
+[//]: # (23rd June, 5:00pm - Workshop 1 - Python Fundamentals for Algorithmic Trading)
 
-23rd June, 5:00pm - Workshop 1 - Python Fundamentals for Algorithmic Trading
-
-30th June, 5:00pm - Workshop 2 - Algorithmic Trading Applications and Sample Strategies
+[//]: # ()
+[//]: # (30th June, 5:00pm - Workshop 2 - Algorithmic Trading Applications and Sample Strategies)
 
 ### Competition: Preliminaries
 
-4th July, 5:00pm - Kick-off/Q&A Event
+18th July, 5:00pm - Workshop 2 / Kick-off / Q&A Event
 
-14th July, 9:00am - Preliminaries submissions close
+10th August, 6:00pm - Submissions for leaderboard update close
 
-### Competition: Heats and Finals
+21st August, 6:00pm - Preliminaries submissions close
 
-14th July, 9:00am - Heats marking begins
+### Competition: Finals
 
-18th July - Finalists emailed, heats results revealed
+21st August, 6:00pm - Preliminary marking begins
 
-21st July - Finals (held in office)
+24th August - Finalists emailed, preliminary results revealed
+
+6th September - Finals (held in office)

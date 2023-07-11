@@ -1,5 +1,3 @@
-# TODO: VERIFY THESE ARE THE SAME THIS YEAR
-
 # Judging Criteria
 
 ### **Technical: 85% (Preliminary), 75% (Finals)**
