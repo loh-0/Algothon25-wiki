@@ -1,6 +1,8 @@
 # Submission
 
-You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8).
+[//]: # (You can submit your GitHub repo [here]&#40;https://forms.gle/GiTtibt3qV4MxWPM8&#41;.)
+
+You will find the link for submission here closer to the date.
 
 If your team is successful as a finalist, you will receive a separate submission link for your final submission.
 
@@ -14,8 +16,9 @@ Your submission must include:
   - This file will contain your algorithm, containing function _getMyPosition()._
   - Your function must take in the data provided in _prices.csv._
   - Your function must output a vector of integers, each denoting your daily position.
-- 1 minute video, briefly explaining your algorithm and what strategies you employed.
-  - Team members are not _required_ to be in the video - voiceovers will suffice.
+
+[//]: # (- 1 minute video, briefly explaining your algorithm and what strategies you employed.)
+[//]: # (  - Team members are not _required_ to be in the video - voiceovers will suffice.)
 - Any other supporting documentation and information about your non-standard libraries.
 
 Please note that **requirements in the submission form** will precede the above information.
