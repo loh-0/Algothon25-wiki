@@ -83,7 +83,7 @@ We will attempt to import and run through all non-standard packages if declared.
 
 ### **Considerations**
 
-- A commission rate of 25 bps (0.0025) can be assumed, meaning you will be charged commission equating 0.0025 \* _totalDollarVolumeTraded_. This will be deducted from your PL.
+- A commission rate of 10 bps (0.0010) can be assumed, meaning you will be charged commission equating 0.0010 \* _totalDollarVolumeTraded_. This will be deducted from your PL.
 - Positions can be long or short (i.e. the integer positions can be either positive or negative).
 - Teams are limited to a $10k position limit per stock, positive or negative. The $10k limit cannot be breached at the time of the trade.
   - This position limit may technically be exceeded in the case that exactly $10k worth of a stock is bought, and stock goes up the next day - this is fine.
