@@ -2,6 +2,7 @@
 
 [//]: # (You can submit your GitHub repo [here]&#40;https://forms.gle/GiTtibt3qV4MxWPM8&#41;.)
 
+
 **Leaderboard** 
 
 Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)
@@ -9,6 +10,8 @@ Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyoh
 Please only submit a .zip file of your repository.
 
 Due August 10 9AM
+
+***You can only submit once per round.***
 
 ---
 
@@ -19,6 +22,8 @@ Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyoh
 Please only submit a .zip file of your repository.
 
 Due August 21 9AM
+
+***You can only submit once per round.***
 
 ---
 
