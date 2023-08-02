@@ -2,10 +2,31 @@
 
 [//]: # (You can submit your GitHub repo [here]&#40;https://forms.gle/GiTtibt3qV4MxWPM8&#41;.)
 
-You will find the link for submission here closer to the date.
+**Leaderboard** 
+
+Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)
+
+Please only submit a .zip file of your repository.
+
+Due August 10 9AM
+
+---
+
+**General Round**
+
+Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)
+
+Please only submit a .zip file of your repository.
+
+Due August 21 9AM
+
+---
+
+**Final**
 
 If your team is successful as a finalist, you will receive a separate submission link for your final submission.
 
+---
 ### Preliminary
 
 Your submission must include:

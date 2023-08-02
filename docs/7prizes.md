@@ -6,4 +6,6 @@
 🥈 2nd Place: $200 per team member.  
 🥉 3rd Place: $100 per team member.
 
+🎟️ Raffle Winner: $50 per team member.
+
 [//]: # (Further prizes / perks to be announced after event launch &#40;including networking and interview opportunities, and SIG merch!&#41; 🏆☕)
