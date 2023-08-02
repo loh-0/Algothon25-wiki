@@ -5,7 +5,8 @@
 
 **Leaderboard** 
 
-Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)
+[//]: # (Submit [here]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link&#41;)
+TBA
 
 Please only submit a .zip file of your repository.
 
@@ -17,7 +18,8 @@ Due August 10 9AM
 
 **General Round**
 
-Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)
+[//]: # (Submit [here]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link&#41;) 
+TBA
 
 Please only submit a .zip file of your repository.
 
