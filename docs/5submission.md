@@ -6,13 +6,16 @@
 **Leaderboard** 
 
 [//]: # (Submit [here]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link&#41;)
-TBA
+Submit [here](https://algothon.au/submission)
 
-Please only submit a .zip file of your repository.
+Please submit a .zip file of your repository. 
+
+Multiple submissions allowed.
+
+Submissions require Discord verification of your group registration. 
 
 Due August 10 9AM
 
-***You can only submit once per round.***
 
 ---
 
