@@ -28,7 +28,6 @@ Please only submit a .zip file of your repository.
 
 Due August 21 9AM
 
-***You can only submit once per round.***
 
 ---
 
