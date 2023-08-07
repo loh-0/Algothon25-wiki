@@ -8,9 +8,13 @@
 [//]: # (Submit [here]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link&#41;)
 Submit [here](https://algothon.au/submission)
 
-Please submit a .zip file of your repository. 
+* Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files). 
 
-Multiple submissions allowed.
+* Please ensure there is a requirements.txt file if required. 
+
+* Please ensure the entry file of your work is named main.py (and not teamName.py as was the default on the starter code).
+
+* Multiple submissions allowed.
 
 Submissions require Discord verification of your group registration. 
 
