@@ -1,37 +1,36 @@
 # Submission
 
-[//]: # (You can submit your GitHub repo [here]&#40;https://forms.gle/GiTtibt3qV4MxWPM8&#41;.)
+[//]: # "You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8)."
 
+**Leaderboard**
 
-**Leaderboard** 
+[//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
 
-[//]: # (Submit [here]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link&#41;)
 Submit [here](https://algothon.au/submission)
 
-* Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files). 
+- Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
 
-* Please ensure there is a requirements.txt file if required. 
+- Please ensure there is a requirements.txt file if required.
 
-* Please ensure the entry file of your work is named main.py (and not teamName.py as was the default on the starter code).
+- Please ensure the entry file of your work is named main.py (and not teamName.py as was the default on the starter code).
 
-* Multiple submissions allowed.
+- Multiple submissions allowed.
 
-Submissions require Discord verification of your group registration. 
+Submissions require Discord verification of your group registration.
 
 Due August 10 9AM
-
 
 ---
 
 **General Round**
 
-[//]: # (Submit [here]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link&#41;) 
+[//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
+
 TBA
 
 Please only submit a .zip file of your repository.
 
 Due August 21 9AM
-
 
 ---
 
@@ -40,6 +39,7 @@ Due August 21 9AM
 If your team is successful as a finalist, you will receive a separate submission link for your final submission.
 
 ---
+
 ### Preliminary
 
 Your submission must include:
@@ -48,11 +48,12 @@ Your submission must include:
 - Team captain name and email.
 - Link to public GitHub repo, containing your source code in a file titled _[team_name].py._
   - This file will contain your algorithm, containing function _getMyPosition()._
-  - Your function must take in the data provided in _prices.csv._
+  - Your function must take in the data provided in _prices.txt._
   - Your function must output a vector of integers, each denoting your daily position.
 
-[//]: # (- 1 minute video, briefly explaining your algorithm and what strategies you employed.)
-[//]: # (  - Team members are not _required_ to be in the video - voiceovers will suffice.)
+[//]: # "- 1 minute video, briefly explaining your algorithm and what strategies you employed."
+[//]: # "  - Team members are not _required_ to be in the video - voiceovers will suffice."
+
 - Any other supporting documentation and information about your non-standard libraries.
 
 Please note that **requirements in the submission form** will precede the above information.
