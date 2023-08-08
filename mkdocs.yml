@@ -1,7 +1,7 @@
 site_name: Algothon 2023
 repo_url: https://github.com/UNSW-Fintech-Society/algothon2023-starter-code/tree/main
 repo_name: Algothon 2023 Starter Code
-
+Your function must take in the data provided in prices.txt
 theme:
   features:
     - navigation.top
