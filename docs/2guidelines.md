@@ -1,12 +1,12 @@
 # Brief
 
-Leaderboard update submissions are due **9:00AM AEST 10 August.** 
+Leaderboard update submissions are due **9:00AM AEST 10 August.**
 
-Preliminary round submissions are due **9:00AM AEST 21 August.** 
+Preliminary round submissions are due **9:00AM AEST 21 August.**
 
 Teams which proceed to the final round, will need to be available at **6:00PM AEST 6 September** to attend.
 
-[//]: # (We recommend that each team have at least one member with programming experience in Python, as well as financial knowledge. Impressive submissions will be expected to involve reasonably advanced data analysis and implementation of reasonably sophisticated trading strategies.)
+[//]: # "We recommend that each team have at least one member with programming experience in Python, as well as financial knowledge. Impressive submissions will be expected to involve reasonably advanced data analysis and implementation of reasonably sophisticated trading strategies."
 
 ---
 
@@ -26,7 +26,7 @@ Develop a trading strategy algorithm to perform optimally given certain metrics.
    - Projections for worst-case scenarios and methods to mitigate this.
    - Considering risk factors, and techniques to minimise risk.
 
-[//]: # (For more information, make sure to take a look at our [learning resources and technical advice]&#40;https://unsw-fintech-society-events.github.io/algothon2022/4resources/&#41; page!)
+[//]: # "For more information, make sure to take a look at our [learning resources and technical advice](https://unsw-fintech-society-events.github.io/algothon2022/4resources/) page!"
 
 ---
 
@@ -63,11 +63,11 @@ In the preliminary round, teams will be provided the first 250 days of price dat
 
 ### Format
 
-Algorithms must be contained in a file titled _[teamName].py._
+Algorithms must be contained in a file titled _main.py._
 
 - This file must contain a function _getMyPosition()._
 - _getMyPosition()_ must take in the daily price data, and output a vector of integer positions - the numbers of shares desired for each stock as the total final position after the last day.
-- _getMyPosition()_ must be in the global scope of the file called _[teamName].py_ and have the appropriate signature.
+- _getMyPosition()_ must be in the global scope of the file called _main.py_ and have the appropriate signature.
   - The function will be called once a day, with the entire price history up to and including that day. For example, on day 240, your function should take as input an array of 50 inst x 240 days.
   - When _getMyPosition()_ is called, we will trade position differences from the previous position **at the most recent price, buying or selling.**
   - Consider the case where your last position was +30, and the new stock price is $20. If your new position is +50, _eval_ will register this as buying 20 **extra** shares at $20 a share. If your new position is -200, _eval_ will sell 230 shares also at $20 a share.
@@ -94,28 +94,22 @@ We will attempt to import and run through all non-standard packages if declared.
 
 The program we will use to evaluate your algorithm is provided in _eval.py_
 
-The formula used will be: 
+The formula used will be:
 
-**mean(PL) - 0.1 * StdDev(PL)**
+**mean(PL) - 0.1 \* StdDev(PL)**
 
-[//]: # (- PL &#40;daily and mean&#41;,)
-
-[//]: # (- Return &#40;net PL / _dollarVolumeTraded_&#41;,)
-
-[//]: # (- Sharpe Ratio, and)
-
-[//]: # (- Trading volume.)
+[//]: # "- PL (daily and mean),"
+[//]: # "- Return (net PL / _dollarVolumeTraded_),"
+[//]: # "- Sharpe Ratio, and"
+[//]: # "- Trading volume."
 
 Your algorithms will be assessed against _unseen, future_ price data of the same 50 instruments within the provided simulated trading universe.
 
 We expect algorithms to have a maximum runtime of ~10min.
 
-[//]: # (## Submission)
-
-[//]: # ()
-[//]: # (Submission details can be found on our [Submission]&#40;https://unsw-fintech-society-events.github.io/algothon2022/5submission/&#41; page.)
-
-[//]: # ()
-[//]: # (Ensure that all code submitted is tested against _eval.py_ **This will be the test used to evaluate the performance of your algorithm.**)
-
-[//]: # (Judging criteria can be found [here.]&#40;https://unsw-fintech-society-events.github.io/algothon2022/6criteria/&#41;)
+[//]: # "## Submission"
+[//]: #
+[//]: # "Submission details can be found on our [Submission](https://unsw-fintech-society-events.github.io/algothon2022/5submission/) page."
+[//]: #
+[//]: # "Ensure that all code submitted is tested against _eval.py_ **This will be the test used to evaluate the performance of your algorithm.**"
+[//]: # "Judging criteria can be found [here.](https://unsw-fintech-society-events.github.io/algothon2022/6criteria/)"
