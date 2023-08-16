@@ -18,10 +18,12 @@
 
 10th August, 9:00am - Submissions for leaderboard update close
 
-21st August, 9:00am - Preliminaries submissions close
+**28th** August, 9:00am - Preliminaries submissions close
 
 ### Competition: Finals
 
-24th August - Finalists emailed, preliminary results revealed
+**30th** August - Finalists emailed, preliminary results revealed
+
+**4th** September - Finalists' revised code and presentations due
 
 6th September, 6:00pm - Finals (held in office)

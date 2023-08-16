@@ -28,9 +28,17 @@ Due August 10 9AM
 
 TBA
 
-Please only submit a .zip file of your repository.
+- Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
 
-Due August 21 9AM
+- Please ensure there is a requirements.txt file if required.
+
+- Please ensure the entry file of your work is named main.py (and not teamName.py as was the default on the starter code).
+
+- Multiple submissions allowed.
+
+Submissions require Discord verification of your group registration.
+
+Due August **28** 9AM
 
 ---
 
