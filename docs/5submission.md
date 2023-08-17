@@ -5,8 +5,8 @@
 **Leaderboard**
 
 [//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
-
-Submit [here](https://algothon.au/submission)
+Submissions Closed 
+[//]: # (Submit [here]&#40;https://algothon.au/submission&#41;)
 
 - Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
 
@@ -26,7 +26,7 @@ Due August 10 9AM
 
 [//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
 
-TBA
+Submit [here](https://algothon.au/submission)
 
 - Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
 
