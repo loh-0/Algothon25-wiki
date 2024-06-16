@@ -1,11 +1,15 @@
 # Submission
 
-[//]: # "You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8)."
+**Leaderboard**
+
+Stay tuned for updates on how to submit
+
+<!-- [//]: # "You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8)."
 
 **Leaderboard**
 
 [//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
-Submissions Closed 
+Submissions Closed
 [//]: # (Submit [here]&#40;https://algothon.au/submission&#41;)
 
 - Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
@@ -57,11 +61,11 @@ Submit [here](https://algothon.au/submission)
 
 Submissions require Discord verification of your group registration.
 
-Due September **4th** 9AM
+Due September **4th** 9AM -->
 
 ---
 
-### Preliminary
+<!-- ### Preliminary
 
 Your submission must include:
 
@@ -89,4 +93,4 @@ If your team is successful in progressing to the final round, you will be provid
 
 Note that final round presentations will consist of a _5 minute presentation_, alongside _4 minutes_ of Q&A.
 
-Final submissions will be also quantitatively assessed, with test results provided to judges prior to team presentation.
+Final submissions will be also quantitatively assessed, with test results provided to judges prior to team presentation. -->

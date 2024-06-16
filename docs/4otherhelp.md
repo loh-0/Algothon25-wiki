@@ -4,7 +4,7 @@
 
 The following materials serve as supplementary resources to our Algothon workshops. Please refer to the workshop recordings to understand key skills for the competition.
 
-Please note that the workshop will not provide all required knowledge for the competition. Additional research will be required, and below provides a  great start!!
+Please note that the workshop will not provide all required knowledge for the competition. Additional research will be required, and below provides a great start!!
 
 ## Guidance
 
@@ -47,7 +47,7 @@ Install Anaconda [here](https://www.anaconda.com/distribution/).
 
 All data will be provided by FinTechSoc. The trading universe consists of simulated daily price data of 100 instruments.
 
-Preliminary round data will be provided at case release (7:00PM AEST 1 July). Note that the dataset used for judging will _not_ be the same as the data provided to you.
+Preliminary round data will be provided at case release. Note that the dataset used for judging will _not_ be the same as the data provided to you.
 
 Finalists will be provided the data used to assess preliminary rounds, and will have the opportunity to amend their algorithm. The dataset used to evaluate teams during final presentations will again be unseen data.
 
