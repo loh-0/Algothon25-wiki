@@ -11,16 +11,16 @@
 
 ### Competition: Preliminaries
 
-19th June, 5:00pm - Workshop 2 / Launch
+19th June, 6:00pm - Workshop 2 / Launch
 
-<!-- 10th August, 9:00am - Submissions for leaderboard update close
+29th June, 9:00am - Submissions for leaderboard update close
 
-**28th** August, 9:00am - Preliminaries submissions close
+**8th** July, 9:00am - Preliminaries submissions close
 
 ### Competition: Finals
 
-**30th** August - Finalists emailed, preliminary results revealed
+**17th** July - Finalists emailed, preliminary results revealed
 
-**4th** September - Finalists' revised code and presentations due
+**26th** July - Finalists' revised code and presentations due
 
-6th September, 6:00pm - Finals (held in office) -->
+5th August, 6:00pm - Finals (held in SIG office)
