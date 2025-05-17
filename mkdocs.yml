@@ -1,6 +1,6 @@
-site_name: Algothon 2024
-repo_url: https://github.com/UNSW-Fintech-Society/algothon24-starter-code/tree/main
-repo_name: Algothon 2024 Starter Code
+site_name: Algothon 2025
+repo_url: https://github.com/UNSW-Fintech-Society/algothon25-starter-code/tree/main
+repo_name: Algothon 2025 Starter Code
 theme:
   features:
     - navigation.top
