@@ -9,18 +9,25 @@
 [//]: #
 [//]: # "30th June, 5:00pm - Workshop 2 - Algorithmic Trading Applications and Sample Strategies"
 
-### Competition: Preliminaries
+<!--- format: DATE, TIME - EVENT DETAILS --->
+<!--- example: 4th July, 7:00pm - Workshop 1 --->
 
-19th June, 6:00pm - Workshop 2 / Launch
+### Competition: Timeline
 
-29th June, 9:00am - Submissions for leaderboard update close
+5th June, TIME TBD - Pre Event Launch / Workshop 1
 
-**8th** July, 9:00am - Preliminaries submissions close
+12th June, TIME TBD - Official Event Launch / Workshop 2
 
-### Competition: Finals
+29th June, TIME TBD - Registrations Close
 
-**17th** July - Finalists emailed, preliminary results revealed
+30th June, TIME TBD - Submission Deadline for Interim Update
 
-**26th** July - Finalists' revised code and presentations due
+2nd July, TIME TBD - Mid-Competition Event: Interim Leaderboard Update 1
 
-5th August, 6:00pm - Finals (held in SIG office)
+14th July, TIME TBD - General Round Submissions Due
+
+18th July, TIME TBD - Finalists Announcement
+
+25th July, TIME TBD - Final Round Submissions Due
+
+7th August, TIME TBD - Final Presentation
