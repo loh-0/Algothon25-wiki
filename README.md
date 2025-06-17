@@ -1,4 +1,4 @@
-# Algothon 2024 Documentation
+# Algothon 2025 Documentation
 
 ## Setup
 
