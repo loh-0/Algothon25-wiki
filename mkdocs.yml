@@ -1,0 +1,16 @@
+site_name: Algothon 2025
+repo_url: https://github.com/UNSW-FinTech-Society-IT/Algothon25-wiki.git
+repo_name: Algothon 2025 Starter Code
+theme:
+  features:
+    - navigation.top
+    - toc.integrate
+    - navigation.tabs
+    - navigation.instant
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  logo: img/fintech.png
+  favicon: img/fintech.png
+  palette:
+    primary: black
