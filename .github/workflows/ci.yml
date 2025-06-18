@@ -1,0 +1,37 @@
+name: Deploy MkDocs Site
+
+on:
+  push:
+    branches:
+      - main  # or 'master', depending on your default branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+
+      - name: Configure Git for GitHub Pages
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://${GH_TOKEN}@github.com/UNSW-FinTech-Society-IT/Algothon25-wiki.git
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
